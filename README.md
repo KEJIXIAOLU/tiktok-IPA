@@ -6,7 +6,29 @@
 - 4、准备好代理节点
 
 ## 一、下载 Tiktok V21.1.0 版本
-<a href="http://t.kxswa.com/kjxl.html" target="_blank">iOS TikTok v21.1.0 点击下载</a>
+
+### APP版本ID查询：https://tools.lancely.tech/apple/app-search?country=us&query=tiktok
+
+- TikTok版本号：21.1.0       版本ID：844024073
+
+- TikTok版本号：21.1.0        版本ID：843972181
+
+### 抓包工具下载地址：
+
+Fiddler下载链接：
+https://pc.qq.com/detail/10/detail_3330.html
+
+iTunes2018版下载：https://secure-appldnld.apple.com/itunes12/091-87819-20180912-69177170-B085-11E8-B6AB-C1D03409AD2A6/iTunes64Setup.exe
+
+爱思助手官网：https://www.i4.cn/
+
+爱思助手下载：https://url.i4.cn/faIfqyaa
+
+### Fiddler抓包指令：
+
+        bpu MZBuy.woa
+
+
 ## 二、下载小火箭Shadowrocket
 登录自己的美区Apple ID账号，下载小火箭Shadowrocket。
 
