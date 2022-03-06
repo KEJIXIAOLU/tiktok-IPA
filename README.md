@@ -1,4 +1,12 @@
-# 小火箭 Shadowrocket 解锁 Tiktok 免拔卡方法
+# IOS 小火箭解锁 tiktok （免拔卡）方法
+
+- 支持换区
+- 看视频
+- 发布视频
+- 点赞
+- 评论
+- TikTok直播
+
 ## 准备工作
 - 1、下载Tiktok V21.1.0 版本
 - 2、准备美区Apple ID账号
